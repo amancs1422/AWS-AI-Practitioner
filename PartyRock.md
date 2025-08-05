@@ -1,0 +1,1 @@
+#This is a placeholder markdown file I'm keeping for further writing on PartyRock.
